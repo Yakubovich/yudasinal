@@ -1,0 +1,14 @@
+a {
+	text-decoration: none
+}
+tbody {
+	border: 10px black;
+}
+div {
+	background-color: yellow;
+	height: 30px;
+	width: 300px;
+	font-family: Verdana;
+	border-radius: 5 px;
+	border: dashed black;
+}
